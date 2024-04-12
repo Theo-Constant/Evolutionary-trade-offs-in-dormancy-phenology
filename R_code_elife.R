@@ -222,7 +222,7 @@ plot(fit3_2)
 
 fit3_3<-pgls(sex_diff_imm~log_spe_repro_effort+body_mass_end_mating+precipitation+dimorphisme_imm,data=comb_model_3,lambda = "ML")
 summary(fit3_3)
-eq2 = function(x){ 180.103912+(-57.962616*2.25)+(-0.049655*583.5)+(-23.754942*1.2)+(-0.709451*x)}
+eq2 = function(x){ -180.103912+(57.962616*2.25)+(0.049655*583.5)+(23.754942*1.2)+(0.709451*x)}
 
 
 ggplot(model_3, aes(x=body_mass_end_mating, y=sex_diff_imm,colour=precipitation))+
@@ -236,7 +236,7 @@ ggplot(model_3, aes(x=body_mass_end_mating, y=sex_diff_imm,colour=precipitation)
   geom_function(fun=eq2, color="black",linewidth=1)
 
 
-eq3 = function(x){ 180.103912+(-0.709451*-5.22)+(-0.049655*583.5)+(-23.754942*1.2)+(-57.962616*x)}
+eq3 = function(x){ -180.103912+(0.709451*-5.22)+(0.049655*583.5)+(23.754942*1.2)+(57.962616*x)}
 
 
 ggplot(model_3, aes(x=log_spe_repro_effort, y=sex_diff_imm,colour=precipitation))+
