@@ -10,9 +10,11 @@ https://elifesciences.org/reviewed-preprints/89644
 
 ## Running the analysis
 
-The code will run most efficiently if all files are saved to a common
-directory.
-
+To run the analysis, use the following command:
+```
+$ cd R
+$ Rscript R_code_elife.R
+```
 
 ## License
 
