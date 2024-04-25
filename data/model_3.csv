@@ -1,0 +1,21 @@
+species,foodstoring,sex_diff_imm,min_temp,body_mass_end_mating,precipitation,body_mass_imm,maternal_effort,litter_per_year,littersize,weaning_mass,masse_femelle,dimorphisme_imm,spe_repro_effort,log_spe_repro_effort
+Callospermophilus_saturatus,Yes,3,-7,-13.13,863,273,70,1,2.7,76,185.35,0.97,110.71,2.04
+Cricetus_cricetus,Yes,27,-3,3.21,595,344,43,1.7,4.3,105,245,1.45,313.29,2.5
+Cynomys_leucurus,No ,11,-12,-17.77,337,1288.8,67,1,5.64,198.5,491.72,1.56,227.68,2.36
+Erinaceus_europaeus,No ,15.71,-5,-10.12,803.5,1152,72,1,5,235,606,1.16,193.89,2.29
+Glis_glis,No ,14,-3,-2.59,758,122.26,58,1,4.9,39.2,99.32,1.22,193.4,2.29
+Ictidomys_parvidens,No ,15,-2,24.48,347,282.5,68,1,6.4,43.8,187,1.24,149.9,2.18
+Marmota_monax,No ,-2,-12,-6.25,1156,3798.7,76.05,1,3.5,490,2610,1.09,65.71,1.82
+Microcebus_murinus,No ,0,15,-13.57,922,74.5,98,1,2,36.6,60.19,0.71,121.61,2.08
+Poliocitellus_franklinii,No ,15.75,-21,-4.53,517,577.88,58,1,6.75,101.33,322.95,1.26,211.79,2.33
+Spermophilus_citellus,No ,-21.25,-3,-13.39,556,352.47,64.5,1,3.9,51.5,188,1.32,106.84,2.03
+Urocitellus_armatus,No ,-8.67,-13,2.28,402,521.83,45,1,6,60.3,262.67,1.33,137.74,2.14
+Urocitellus_beldingi,No ,20,-12,-4.59,568,381.8,51.53,1,6.31,69,217,1.21,200.64,2.3
+Urocitellus_columbianus,No ,11.77,-16,8.49,693,579,53.2,1,3.6,112.6,380,1.33,106.67,2.03
+Urocitellus_elegans,No ,-9,-17,-3.8,281,363.68,55.58,1,5.88,80.5,203,1.26,233.17,2.37
+Urocitellus_mollis,No ,-3.66,-5,-3.47,248,227.83,58,1,8.1,32.8,122.5,1.38,216.88,2.34
+Urocitellus_parryii,Yes,-28,-30,-21.24,237,1034.74,53,1,5.8,234.5,615,1.06,221.15,2.34
+Urocitellus_richardsonii,Yes,12.16,-14,-4.48,370,524.52,51.79,1,7.1,83.75,229,1.31,259.66,2.41
+Zapus_hudsonius,No ,14,-9,-9.55,837,22.78,47,1,5.5,7.8,16.7,0.92,256.89,2.41
+Urocitellus_brunneus,No ,-2,-11,-6.57,610,269.5,66.5,1,6.2,36.55,121.35,1.35,186.74,2.27
+Zapus_princeps,No ,0,-14,-7.9,570,35.24,48,1,5.4,12.9,23.46,1,296.93,2.47

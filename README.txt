@@ -1,1 +1,0 @@
-This repository hosts code and data files for replicating all statistical results reported in Constant et al. (submitted in elife) Evolutionary trade-offs in dormancy phenology. Code will run most efficiently if all files are saved to a common directory. 
