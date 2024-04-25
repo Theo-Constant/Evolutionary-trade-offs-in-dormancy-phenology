@@ -1,7 +1,7 @@
-# Dormancy Analysis (dorman)
+# Evolutionary trade-offs in dormancy phenology
 
 This repository hosts code and data files for replicating all statistical
-results reported in the article written by Constant *et al.*:
+results reported in the article written by Theo Constant *et al.*:
 "Evolutionary trade-offs in dormancy phenology".
 
 The preprint is available on-line:
